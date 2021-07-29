@@ -1,10 +1,12 @@
+
 >Directions for use: Once you have customized your readme, remove any headings with no content and all the help text (including this). 
 
 # Awesome Readme Generator
 
 ## Description
+You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to wor
+
 >Provide a short description explaining the what, why, and how of your project. 
-You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
 
 ---
 ## Table of Contents (Optional)
@@ -17,17 +19,14 @@ You can quickly and easily create a README file by using a command-line applicat
 - [Features](#features)
 
 ### Installation
->Provide a step-by-step description of how to get the development environment running.
-Once you clone this repository, you will need to open the terminal inthe folder that contains your index.js file and enter 'npm install'. Once your node modules are installed, simply type 'node index' into the terminal and proceed through the questions. The generated Readme file will be in the Results FOLDER.
+This application works in the terminal with node.js and inquirer. You will need to install node modules with npm install.  
 
+>Provide a step-by-step description of how to get the development environment running.
 ---
 ### Usage
->Provide instructions and examples for use. Include screenshots as needed.
-Answered above
+Once you clone this repository, you will need to open the terminal in the folder that contains your index.js file and enter 'npm install'. Once your node modules are installed, simply type 'node index' into the terminal and proceed through the questions. The generated Readme file will be in the Results FOLDER.
 
->Example to include image:
-    >![alt text](assets/images/screenshot.png)
-    
+>Provide instructions and examples for use. Include screenshots as needed.
 ---
 ### Credits
 This project is made with node.js and inquirer.
@@ -47,13 +46,15 @@ Keep in mind, you should remove any of the help text that is preceded with a '>'
 
 ---
 ### Contribute
->If you created an application or package and would like other developers to contribute it.
 Please feel free to fork this project and create your own branch.
+
+>If you created an application or package and would like other developers to contribute it.
 
 ---
 ### Tests
->Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+No tests
 
+>Go the extra mile and write tests for your application. Then provide examples on how to run them here.
 
 ---
 ### Questions
@@ -62,3 +63,5 @@ Contact me if you have any questions about this project:
 
 You can find my projects on Github:
 - [github:](https://github.com/larafoster) 
+
+ 
