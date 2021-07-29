@@ -1,4 +1,7 @@
+>Directions for use: Once you have customized your readme, remove all the help text (including this). 
+
 # Awesome Readme Generator
+
 
 ## Description
 >Provide a short description explaining the what, why, and how of your project. 
@@ -12,6 +15,7 @@
 - [Credits](#credits)
 - [License](#license)
 - [Contribute](#contribute)
+---
 
 ## Installation
 >Provide a step-by-step description of how to get the development environment running.
@@ -37,7 +41,7 @@ The last section of a high-quality README file is the license.
 
 
 ---
-## How to Contribute
+## Contribute
 >If you created an application or package and would like other developers to contribute it.
 Please feel free to fork this project and create a new branch.
 
