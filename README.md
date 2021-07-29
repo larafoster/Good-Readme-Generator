@@ -1,7 +1,7 @@
->Directions for use: Once you have customized your readme, remove all the help text (including this). 
+>Directions for use: Once you have customized your readme, remove any headings that are all the help text (including this). 
 
 # Awesome Readme Generator
-
+***
 
 ## Description
 >Provide a short description explaining the what, why, and how of your project. 
@@ -15,8 +15,9 @@
 - [Credits](#credits)
 - [License](#license)
 - [Contribute](#contribute)
----
+- [Questions](#questions)
 
+---
 ## Installation
 >Provide a step-by-step description of how to get the development environment running.
 * An HTML document containing the information collected from the prompts should be constructed and written to the file system. Be sure to add some CSS styling to the document.
@@ -53,8 +54,8 @@ Please feel free to fork this project and create a new branch.
 ---
 ### Questions
 Contact me if you have any questions about this project:
-![email:](larafoster.dev@gmail.com) 
+- [email](larafoster.dev@gmail.com) 
 
 You can find my projects on Github:
 larafoster
-![github:](https://github.com/larafoster.dev@gmail.com) 
+- [github](https://github.com/larafoster.dev@gmail.com) 
