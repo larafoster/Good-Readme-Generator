@@ -8,7 +8,7 @@ You can quickly and easily create a README file by using a command-line applicat
 
 >Provide a short description explaining the what, why, and how of your project. 
 
----
+***
 ## Table of Contents (Optional)
 
 - [Installation](#installation)
