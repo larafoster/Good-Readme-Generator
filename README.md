@@ -23,8 +23,8 @@
   
   ## Features 
 
-  Feature 1: This generator only creates content for the sections that have inputs; 
-  Feature 2: The table of contents are dynamically created based on the user's answers; 
+  Feature 1: This generator only creates content for the sections that have inputs; <br/>
+  Feature 2: The table of contents are dynamically created based on the user's answers; <br/>
   Feature 3: There is help text throughout, so the user can expand on their readme content.
   
   ## Credits  
