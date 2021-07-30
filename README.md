@@ -40,7 +40,7 @@ This project is made with node.js and inquirer.
 undefined
 undefined
 
----
+<hr />
 ### Features
 Keep in mind, you should remove any of the help text that is preceded with a '>' and any headings that contain no content.
 
