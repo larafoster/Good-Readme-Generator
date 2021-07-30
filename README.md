@@ -29,10 +29,15 @@
   * There is help text throughout, so the user can expand on their readme content.
 
   ### Asset Links
+  View this app in motion:
+  - [video of inquirer prompts](https://drive.google.com/file/d/1kAdSyjUgZ3f_xrTxSnM_5e7xp7teTSE6/view)
+  - [video of README file in VS code](https://drive.google.com/file/d/12Rh7Mp_hGhtP3Ka5DpdROuLd4DwF33eG/view)
+  - [video of README file on Github](https://drive.google.com/file/d/1kaq-2mpnbI2IN4p_JRxE1BiqhyZv0wVr/view)
 
-  - [video of inquirer prompts](./assets/Inquirer-prompts.mp4)
-  - [video of README file in VS code](./assets/Readme-Generated.mp4)
-  - [video of README file on Github](./assets/Readme-on-Github.mp4)
+  Screenshots of app:
+  - [video of inquirer prompts](./assets/Inquirer-prompts.png)
+  - [video of README file in VS code](./assets/Readme-Generated.png)
+  - [video of README file on Github](./assets/Readme-on-Github.png)
 
   - [Github Repo](https://github.com/larafoster/Good-Readme-Generator) 
 
