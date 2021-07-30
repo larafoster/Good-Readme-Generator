@@ -67,10 +67,6 @@
   ## Contribute
   Please feel free to fork this project and create your own branch. Any suggestions for improvement are welcomed.
 
-<<<<<<< HEAD
-=======
-
->>>>>>> bcfbab19f83fb877c887dfdd5167cf51ecb3f28b
  ## License
  This project is licensed under the MIT License
 
@@ -82,10 +78,4 @@
   - [Send me an email](mailto:larafoster.dev@gmail.com)
 
   You can find my projects on Github:
-  - [Find me on Github](https://github.com/larafoster) 
-
-<<<<<<< HEAD
-  
-=======
-  
->>>>>>> bcfbab19f83fb877c887dfdd5167cf51ecb3f28b
+  - [Find me on Github](https://github.com/larafoster)
