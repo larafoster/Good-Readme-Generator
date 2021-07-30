@@ -39,7 +39,7 @@
   ## Credits 
   This project is created with the following technologies:
   - [Node.js](https://nodejs.org/en/) 
-  - [Inquirer.js](hhttps://www.npmjs.com/package/inquirer) 
+  - [Inquirer.js](https://www.npmjs.com/package/inquirer) 
   ***
  The code for this project was researched extensively. Here are a few of the tutorials I found helpful:
 
