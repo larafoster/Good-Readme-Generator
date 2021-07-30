@@ -36,7 +36,7 @@
   Please feel free to fork this project and create your own branch.
 
  ## License
- This project is licensed under the MIT License
+ This project is licensed under the MIT License <br />
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
   
   ## Questions
