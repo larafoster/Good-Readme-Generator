@@ -1,12 +1,12 @@
 
   >Directions for use: Once you have customized your readme, remove any headings with no content and all the help text (including this). 
 
-  # add later
+  # Awesome Readme Project
   
   ## Description 
   >Provide a short description explaining the what, why, and how of your project. 
   
-  add later
+  You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -51,16 +51,15 @@
 
   add later
   
-## The MIT License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ ## MIT License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
   
   ## Questions
   Contact me if you have any questions about this project:
 
-  - [email](mailto:add later)
+  - [email](mailto:larafoster.dev@gmail.com)
 
   You can find my projects on Github:
-  - [github:](https://github.com/add later) 
+  - [github:](https://github.com/larafoster) 
 
   
