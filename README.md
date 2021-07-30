@@ -50,8 +50,12 @@
 
   - [if(x==2) dosomething();](https://stackoverflow.com/questions/11069278/omitting-the-second-expression-when-using-the-if-else-shorthand/32733892) 
 
+<<<<<<< HEAD
     ```This is from stackoverflow: Omitting the second expression when using the if-else shorthand. user: ajax333221```
           
+=======
+    ```This is from stackoverflow, user: ajax333221```
+>>>>>>> bcfbab19f83fb877c887dfdd5167cf51ecb3f28b
   ***
 
   - [Template Literals and String interpolation](https://dmitripavlutin.com/string-interpolation-in-javascript/) 
@@ -67,6 +71,10 @@
   ## Contribute
   Please feel free to fork this project and create your own branch. Any suggestions for improvement are welcomed.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> bcfbab19f83fb877c887dfdd5167cf51ecb3f28b
  ## License
  This project is licensed under the MIT License
 
@@ -80,4 +88,8 @@
   You can find my projects on Github:
   - [Find me on Github](https://github.com/larafoster) 
 
+<<<<<<< HEAD
   
+=======
+  
+>>>>>>> bcfbab19f83fb877c887dfdd5167cf51ecb3f28b
