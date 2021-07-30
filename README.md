@@ -28,7 +28,7 @@
   * The Table of Contents items are dynamically created based on whether content exists;
   * There is help text throughout, so the user can expand on their readme content.
 
-  ### Asset Links
+  ### Project Links
   View this app in motion:
   - [video of inquirer prompts](https://drive.google.com/file/d/1kAdSyjUgZ3f_xrTxSnM_5e7xp7teTSE6/view)
   - [video of README file in VS code](https://drive.google.com/file/d/12Rh7Mp_hGhtP3Ka5DpdROuLd4DwF33eG/view)
