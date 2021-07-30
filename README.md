@@ -35,9 +35,9 @@
   - [video of README file on Github](https://drive.google.com/file/d/1kaq-2mpnbI2IN4p_JRxE1BiqhyZv0wVr/view)
 
   Screenshots of app:
-  - [video of inquirer prompts](./assets/Inquirer-prompts.png)
-  - [video of README file in VS code](./assets/Readme-Generated.png)
-  - [video of README file on Github](./assets/Readme-on-Github.png)
+  - [img of inquirer prompts](./assets/Inquirer-prompts.png)
+  - [img of README file in VS code](./assets/Readme-Generated.png)
+  - [img of README file on Github](./assets/Readme-on-Github.png)
 
   - [Github Repo](https://github.com/larafoster/Good-Readme-Generator) 
 
